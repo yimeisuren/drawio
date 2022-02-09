@@ -1,5 +1,0 @@
-aaa 
-bbb
-[core]
-	editor = \"D:\\Program Files\\Microsoft VS Code\\bin\\code.cmd\" --wait
-	
